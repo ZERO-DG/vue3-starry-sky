@@ -1,4 +1,7 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'vue';
+import App from './App.vue';
+// import Vue3StarrySky from '../packages/index';
 
-createApp(App).mount('#app')
+const app = createApp(App);
+// app.use(Vue3StarrySky);
+app.mount('#app');
