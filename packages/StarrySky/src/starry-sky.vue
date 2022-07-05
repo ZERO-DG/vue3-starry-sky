@@ -3,11 +3,11 @@ import { ref, onMounted } from 'vue';
 
 const props = defineProps({
 	starsCount: {
-		type: [Number, String],
+		type: Number,
 		default: () => 800,
 	},
 	distance: {
-		type: [Number, String],
+		type: Number,
 		default: () => 800,
 	},
 });
