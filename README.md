@@ -6,6 +6,11 @@
 npm i vue3-starry-sky
 ```
 
+# 组件效果预览
+
+* [gitee pages](https://zero-dg.gitee.io/vue3-starry-sky)
+* [github pages](https://zero-dg.github.io/vue3-starry-sky/)
+
 # 全局使用方法
 
 在vue3项目中全局引用的方式
@@ -71,7 +76,7 @@ import { StarrySky } from '../packages/index';
 * gitee地址：[vue3-starry-sky](https://gitee.com/zero-dg/vue3-starry-sky)
 * github地址：[vue3-starry-sky](https://github.com/ZERO-DG/vue3-starry-sky)
 
-# 相关
+# 相关（[vue-starry-sky](https://www.npmjs.com/package/vue-starry-sky)）
 
 本项目基于vite+vue3基于之前的cli+vue2升级改造而来，想访问vue2库组件请点击下面链接地址：
 * gitee地址：[vue3-starry-sky](https://gitee.com/zero-dg/vue-starry-sky)
