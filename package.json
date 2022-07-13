@@ -1,7 +1,7 @@
 {
   "name": "vue3-starry-sky",
   "private": false,
-  "version": "0.0.7",
+  "version": "0.1.0",
   "keywords": ["starry","sky","starry-sky","vue3-starry-sky","vue-starry-sky"],
   "scripts": {
     "dev": "vite --force --host",
