@@ -79,5 +79,5 @@ import { StarrySky } from '../packages/index';
 # 相关（[vue-starry-sky](https://www.npmjs.com/package/vue-starry-sky)）
 
 本项目基于vite+vue3基于之前的cli+vue2升级改造而来，想访问vue2库组件请点击下面链接地址：
-* gitee地址：[vue3-starry-sky](https://gitee.com/zero-dg/vue-starry-sky)
-* github地址：[vue3-starry-sky](https://github.com/ZERO-DG/vue-starry-sky)
+* gitee地址：[vue-starry-sky](https://gitee.com/zero-dg/vue-starry-sky)
+* github地址：[vue-starry-sky](https://github.com/ZERO-DG/vue-starry-sky)
